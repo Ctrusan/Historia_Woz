@@ -6,4 +6,4 @@ Además, estudió en la Universidad de Colorado. En ese lugar, conoció a <b>Bil
 
 [Opción 1](https://github.com/Ctrusan/Historia_Woz/blob/master/Parte4.md): Steve Jobs.
 
-[Opción 2]: Bill Gates.
+[Opción 2](https://github.com/Ctrusan/Historia_Woz/blob/master/Parte5.md): Bill Gates.
