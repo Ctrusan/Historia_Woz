@@ -2,7 +2,7 @@
 
 Aprendió matemáticas y electrónica muy joven, lo que le llevó a poder crear objetos. A sus 11 años creó algo, ¿sabrías decirme el qué entre estas dos opciones?
 
-[Opción 1]: Una computadora personal. 
-[Opción 2]: Una propia estación de radio.
+Opción 1: Una computadora personal. 
+Opción 2: Una propia estación de radio.
 
 
