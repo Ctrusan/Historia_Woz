@@ -8,4 +8,6 @@ Aprendió matemáticas y electrónica muy joven, lo que le llevó a poder crear 
 
 [Opción 2](https://github.com/Ctrusan/Historia_Woz/blob/master/Parte2.md): Una propia estación de radio.
 
+[Opción 3](https://github.com/Ctrusan/Historia_Woz/blob/master/historia_a%C3%B1adida1.md): Juguetes para niños.
+
 
